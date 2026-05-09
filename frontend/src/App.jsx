@@ -5,7 +5,7 @@ import DatasetInfo from './components/DatasetInfo.jsx'
 import QAInterface from './components/QAInterface.jsx'
 import './App.css'
 
-const API = 'https://your-railway-url.up.railway.app'
+const API = 'https://querymind-production-c849.up.railway.app/'
 
 export default function App() {
   const [theme, setTheme] = useState(() =>

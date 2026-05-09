@@ -18,8 +18,8 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "http://localhost:3000",
-        "https://querymind-neon.vercel.app/",       # ← add your actual Vercel URL
-        "https://querymind-neon.vercel.app/",   # ← the preview URL too
+        "https://querymind-neon.vercel.app/",        # your Vercel URL
+        "https://querymind-neon.vercel.app/",   # Vercel preview URL
     ],
     allow_credentials=True,
     allow_methods=["*"],
