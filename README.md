@@ -8,7 +8,7 @@
 
 > Upload any CSV. Ask questions in plain English. Get instant answers with charts — powered by AI.
 
-**Live Demo:** [your-vercel-link-here.vercel.app](https://your-vercel-link-here.vercel.app)
+**Live Demo:** [your-vercel-link-here.vercel.app](https://querymind-neon.vercel.app/)
 
 ---
 
