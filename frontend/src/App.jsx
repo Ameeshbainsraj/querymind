@@ -5,7 +5,7 @@ import DatasetInfo from './components/DatasetInfo.jsx'
 import QAInterface from './components/QAInterface.jsx'
 import './App.css'
 
-const API = 'http://localhost:8000'
+const API = 'https://querymind-api.onrender.com'
 
 export default function App() {
   const [theme, setTheme] = useState(() =>
